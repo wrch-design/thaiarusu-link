@@ -70,7 +70,7 @@
     <p>เลือกช่องทางติดต่อ</p>
 
     <a class="button" href="http://www.thaiarusu.com/" target="_blank">Website</a>
-    <a class="button" href="https://www.tiktok.com/@thaiarusu" target="_blank">TikTok</a>
+    <a class="button" href="https://www.tiktok.com/@thai_arusu" target="_blank">TikTok</a>
     <a class="button" href="https://www.facebook.com/ThaiArusuInterior/?locale=th_TH" target="_blank">Facebook</a>
     <a class="button" href="https://www.instagram.com/thaiarusu/" target="_blank">Instagram</a>
     <a class="button" href="tel:022945380">02-294-5380-1</a>
